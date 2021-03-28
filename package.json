@@ -1,0 +1,25 @@
+{
+  "name": "jensen-portfolio-app",
+  "version": "1.0.0",
+  "description": "My portfollio app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensenkhem/jensen-portfolio-app.git"
+  },
+  "author": "Jensen Khemchandani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensenkhem/jensen-portfolio-app/issues"
+  },
+  "homepage": "https://github.com/jensenkhem/jensen-portfolio-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
